@@ -60,3 +60,4 @@ To install Python, Git and other required tools, [OpenVINO Notebooks](https://gi
 | Training               | [501b_training](https://github.com/openvinotoolkit/anomalib/blob/main/notebooks/500_use_cases/501_dobot/501b_inference_with_a_robotic_arm.ipynb)                   |       |
 # anomalib_detection
 # anomalib_detection
+# anomalib_detection
